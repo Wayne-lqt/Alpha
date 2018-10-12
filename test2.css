@@ -1,0 +1,33 @@
+body {
+    background-image:url(../images/ng.jpg);
+    opacity: 0.82;
+}
+
+header {
+    background-color:aliceblue;
+    height: 30px;
+    width: 250px;
+    border: 3px solid black; 
+    border-spacing: center; text-align: center;
+    padding-left: center;
+    padding-top: auto;
+    margin:auto;
+    margin:auto;
+        }
+    
+ header:hover {
+     background-color:coral;
+}
+
+form {
+    height: 50px;
+    width: 1000px;
+    border-spacing: 0px; 
+    font-size: 30px; 
+    text-align: center; 
+    border:solid 1px;
+    background-color:deepskyblue;
+    margin-top: 250px;
+   margin-left: 250px;
+
+}
